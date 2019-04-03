@@ -1,4 +1,4 @@
-to run tcp server :  from src directory , run  rustc tcp_echo_server.rs && ./tcp_echo_server
+to run tcp server :  from src directory , run   rustc tcp_echo_server.rs && ./tcp_echo_server
 ro run tcp client :  from src directory , run   rustc tcp_client.rs && ./tcp_client `
 
 
