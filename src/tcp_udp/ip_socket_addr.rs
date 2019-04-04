@@ -1,6 +1,6 @@
 #![feature(ip)]
 
-use std::et::{IpAddr, SocketAddr};
+use std::net::{IpAddr, SocketAddr};
 
 fn main() {
     let local: IpAddr =  "127.0.0.1".parse().unwrap();
